@@ -1,6 +1,8 @@
 #ReadMe.md
 
 ## Description
+This project is designed to host a server on a Raspberry Pi 3 that is able to serve live video from its Raspberry Pi Camera. In addition, it allows users on the hosted website to rotate and angle the camera using a pan and tilt servo setup in order to look around wherever the system is placed. 
+
 This repo was made during CSS428
 
 
