@@ -3,10 +3,7 @@
 ## Description
 This project is designed to host a server on a Raspberry Pi 3 that is able to serve live video from its Raspberry Pi Camera. In addition, it allows users on the hosted website to rotate and angle the camera using a pan and tilt servo setup in order to look around wherever the system is placed. 
 
-This repo was made during CSS428
-
-
-+ hi 
+This repo was made during CSS428 at the University of Washington
 
 
 ## Requirements
@@ -50,3 +47,4 @@ raspivid -o - -t 0 -n -w 720 -h 480 -fps 25 -b 1500000 | cvlc -vvv stream:///dev
 ##Authors
 Jeremy Bobotek
 Alan Nguyen
+Xavier Chen
