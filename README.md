@@ -32,7 +32,8 @@ sudo pip install flask
 ## Setup
 ```
 sudo apt-get npm 
-npm install node
+npm install
+bower install
 sudo apt-get install python-pip
 sudo pip install flask
 sudo apt-get install vlc
